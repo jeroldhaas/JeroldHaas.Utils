@@ -54,7 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\JeroldHaas.Utils\JeroldHaas.Utils.csproj">
+    <ProjectReference Include="..\JeroldHaas.Utils.csproj">
       <Project>{0c38f1c6-8fff-4cb2-a979-5c5d9f75fbef}</Project>
       <Name>JeroldHaas.Utils</Name>
     </ProjectReference>
